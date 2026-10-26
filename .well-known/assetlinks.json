@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.yessirks.trukia",
+      "sha256_cert_fingerprints": ["A0:B8:5C:EE:19:C3:23:D2:92:3C:31:70:B5:1D:36:17:18:BD:BF:CF:46:94:C0:B4:DE:98:F2:AD:33:FD:9D:9F"]
+    }
+  }
+]
